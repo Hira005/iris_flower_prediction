@@ -44,14 +44,22 @@ Used GridSearchCV to test n_neighbors values from 3 to 13. The best result was n
 | Cross-Validation Average (unscaled) | 97.3% |
 | Best Hyperparameter (GridSearchCV) | n_neighbors=5 |
 | Best CV Score (GridSearchCV) | 96.0% |
+
 ## Tech Stack
-Python,pandas,scikit-learn,Jupyter,Streamlit,CSS
+- Python
+- Pandas
+- Scikit-learn
+- Jupyter Notebook
+- Streamlit
+- CSS
 
 ## Project Structure
+```
 ├── app.py
 ├── iris_model.pkl
 ├── iris_scaler.pkl
-├── notebook_name.ipynb
+├── iris_flower_prediction.ipynb  (use your real filename)
+```
 ## How to Run
 1. Clone the repo
 2. Install dependencies: `pip install streamlit scikit-learn joblib numpy`
