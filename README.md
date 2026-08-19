@@ -58,7 +58,7 @@ Used GridSearchCV to test n_neighbors values from 3 to 13. The best result was n
 ├── app.py
 ├── iris_model.pkl
 ├── iris_scaler.pkl
-├── iris_flower_prediction.ipynb  (use your real filename)
+├── iris_flower_prediction.ipynb  
 ```
 ## How to Run
 1. Clone the repo
